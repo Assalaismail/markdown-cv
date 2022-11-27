@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/119041348/204159559-9ec86fe1-72e1-40cf-a290-f3856b3b0c45.jpeg>
 <p>Assala ISMAIL<br>
 Computer and Communication Engineer</p>
 <p><strong>Address:</strong> Beirut, Lebanon<br>
