@@ -41,7 +41,7 @@ Position Held: <strong>Private Tutor</strong><br>
 <p>From Mar/2022 to Apr/2022:  USAID – Qitabi Project                                                                                                                Beirut, Lebanon<br>
 Position held: <strong>Enumerator</strong><br>
 • Collect data from different official schools in Beirut, Lebanon to evaluate the educational level of the students.</p>
-<p>From to Sep/2021:   Al Wafaa Bakery                                                                                                                                                                Beirut, Lebanon<br>
+<p>From Jan/2022 to Nov/2022:   Al Wafaa Bakery                                                                                                                                                                Beirut, Lebanon<br>
 Position held: <strong>Accountant Employee</strong><br>
 • Enter the invoices of purchase, sales, socks, and constraints using IDS software.<br>
 • Match paychecks and vouchers.<br>
