@@ -15,7 +15,7 @@ A fresh graduate Computer and Communication Engineer. Possess strong technical a
 ___
 
 ><p ><strong>EDUCATION</strong><br>
-From Oct/2017 to Jun/2022       Beirut International University (BIU)                           Beirut, Lebanon<br>
+<p>From Oct/2017 to Jun/2022       Beirut International University (BIU)                               Beirut, Lebanon<br></p>
 Bachelor of Engineering in Computer and Communication Engineering<br>
 Honor List – GPA: 3.7/4<br>
 Courses:<br>
